@@ -1,2 +1,2 @@
 # hellp-world
-just anothe repository
+just another repository
